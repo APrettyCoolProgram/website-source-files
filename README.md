@@ -26,6 +26,7 @@
 # ABOUT
 This repository contains the source files for the following websites:
 * [alicewhiting.com](https://github.com/APrettyCoolProgram/website-source-files/tree/master/alicewhiting)
+* [familywatermelon.com](https://github.com/APrettyCoolProgram/website-source-files/tree/master/familywatermelon)
 
 # DEVELOPMENT
 A blurb about development can go here.
