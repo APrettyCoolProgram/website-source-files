@@ -1,16 +1,7 @@
 <!--
   project-templates 201024
-  project-templates-github-informational-repository-template 201024
+  project-templates-github-website-source-repository-template 201024
 -->
-
-<h3 align="center">
-
-  <img src="repository-data/image/logo/github-repository-templates-logo-142x225.png" alt="GitHub Repository Templates repository logo" width="142">
-  <br>
-  A GitHub template for an informational repository.
-  <br>
-
-</h3>
 
 <!-- NOTE: The HTML indentations have to stay this way to work. -->
 <table>
@@ -19,49 +10,25 @@
 
   ### CONTENTS
   [ABOUT](#about)<br>
-  [TOPIC01](#topic01)<br>
-  [TOPIC02](#topic02)<br>
   [DEVELOPMENT](#development)<br>
   
 </td>
 </tr>
 </table>
 
-<!-- About this repository -->
 # ABOUT
-This is a template for GitHub repositories that focus on information.
-
-# TOPIC01
-Topic 01
-
-<details>
-<summary>What's under this?</summary>
-Some stuff!
-
-* Like this...
-* ...or this
-
-</details>
-
-# TOPIC02
-Topic 02
+This repository contains the source files for website-name.
 
 # DEVELOPMENT
 A blurb about development can go here.
 
-* [Project homepage](https://github.com/github-account/repository-name)
+* [Project homepage](https:website-name)
 * [Changelog](repository-data/doc/changelog.md)
 * [Roadmap](repository-data/doc/roadmap.md)
 * [Acknowledgements](repository-data/doc/acknowledgements.md)
 * [Notices](repository-data/doc/third-party-notices.md)
 * [Related projects](repository-data/doc/related-projects.md)
 * [Additional reading](repository-data/doc/additional-reading.md)
-
-### Repository
-* [Issues](https://github.com/github-account/repository-name/issues)
-* [Projects](https://github.com/github-account/repository-name/projects)
-* [Wiki](https://github.com/github-account/repository-name/wiki)
-* [Insights](https://github.com/github-account/repository-name/pulse)
 
 ***
 
