@@ -3,6 +3,15 @@
   project-templates-github-website-source-repository-template 201024
 -->
 
+<h3 align="center">
+
+  <br>
+  Website source files
+  <br>
+
+</h3>
+
+
 <!-- NOTE: The HTML indentations have to stay this way to work. -->
 <table>
 <tr>
@@ -19,7 +28,7 @@
 # ABOUT
 This repository contains the source files for the following websites:
 
-*[alicewhiting.com]
+* [alicewhiting.com](https://github.com/APrettyCoolProgram/website-source-files/tree/master/alicewhiting)
 
 # DEVELOPMENT
 A blurb about development can go here.
