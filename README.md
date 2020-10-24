@@ -3,13 +3,13 @@
   project-templates-github-website-source-repository-template 201024
 -->
 
-<h2 align="center">
+<h1 align="center">
 
   <br>
   Website source files
   <br>
 
-</h2>
+</h1>
 
 
 <!-- NOTE: The HTML indentations have to stay this way to work. -->
