@@ -17,7 +17,9 @@
 </table>
 
 # ABOUT
-This repository contains the source files for website-name.
+This repository contains the source files for the following websites:
+
+*[alicewhiting.com]
 
 # DEVELOPMENT
 A blurb about development can go here.
